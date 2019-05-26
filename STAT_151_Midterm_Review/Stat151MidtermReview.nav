@@ -3,41 +3,65 @@
 \headcommand {\beamer@sectionpages {1}{1}}
 \headcommand {\beamer@subsectionpages {1}{1}}
 \headcommand {\sectionentry {1}{Introduction to Presentation}{2}{Introduction to Presentation}{0}}
-\headcommand {\beamer@sectionpages {2}{1}}
-\headcommand {\beamer@subsectionpages {2}{1}}
-\headcommand {\sectionentry {2}{Types of Samples}{2}{Types of Samples}{0}}
-\headcommand {\beamer@sectionpages {2}{1}}
-\headcommand {\beamer@subsectionpages {2}{1}}
-\headcommand {\sectionentry {3}{Types of Studies}{2}{Types of Studies}{0}}
-\headcommand {\beamer@sectionpages {2}{1}}
-\headcommand {\beamer@subsectionpages {2}{1}}
-\headcommand {\sectionentry {4}{Quartiles}{2}{Quartiles}{0}}
-\headcommand {\beamer@sectionpages {2}{1}}
-\headcommand {\beamer@subsectionpages {2}{1}}
-\headcommand {\sectionentry {5}{Mean, Median, IQR, and Standard Deviation}{2}{Mean, Median, IQR, and Standard Deviation}{0}}
-\headcommand {\beamer@sectionpages {2}{1}}
-\headcommand {\beamer@subsectionpages {2}{1}}
-\headcommand {\sectionentry {6}{Normal Distributions}{2}{Normal Distributions}{0}}
-\headcommand {\beamer@sectionpages {2}{1}}
-\headcommand {\beamer@subsectionpages {2}{1}}
-\headcommand {\sectionentry {7}{Expected Value}{2}{Expected Value}{0}}
-\headcommand {\beamer@sectionpages {2}{1}}
-\headcommand {\beamer@subsectionpages {2}{1}}
-\headcommand {\sectionentry {8}{Dependent Probability}{2}{Dependent Probability}{0}}
-\headcommand {\beamer@sectionpages {2}{1}}
-\headcommand {\beamer@subsectionpages {2}{1}}
-\headcommand {\sectionentry {9}{Sampling Distributions}{2}{Sampling Distributions}{0}}
-\headcommand {\beamer@sectionpages {2}{1}}
-\headcommand {\beamer@subsectionpages {2}{1}}
-\headcommand {\sectionentry {10}{Sample Questions}{2}{Sample Questions}{0}}
-\headcommand {\slideentry {10}{0}{1}{2/2}{}{0}}
+\headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
 \headcommand {\beamer@framepages {2}{2}}
-\headcommand {\slideentry {10}{0}{2}{3/11}{}{0}}
+\headcommand {\slideentry {1}{0}{2}{3/11}{}{0}}
 \headcommand {\beamer@framepages {3}{11}}
-\headcommand {\slideentry {10}{0}{3}{12/14}{}{0}}
+\headcommand {\beamer@sectionpages {2}{11}}
+\headcommand {\beamer@subsectionpages {2}{11}}
+\headcommand {\sectionentry {2}{Types of Samples}{12}{Types of Samples}{0}}
+\headcommand {\slideentry {2}{0}{1}{12/14}{}{0}}
 \headcommand {\beamer@framepages {12}{14}}
-\headcommand {\beamer@partpages {1}{14}}
-\headcommand {\beamer@subsectionpages {2}{14}}
-\headcommand {\beamer@sectionpages {2}{14}}
-\headcommand {\beamer@documentpages {14}}
-\headcommand {\gdef \inserttotalframenumber {4}}
+\headcommand {\beamer@subsectionpages {12}{14}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{15}{Biased}}
+\headcommand {\slideentry {2}{1}{1}{15/15}{Biased}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@sectionpages {12}{15}}
+\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\sectionentry {3}{Types of Studies}{16}{Types of Studies}{0}}
+\headcommand {\slideentry {3}{0}{1}{16/17}{}{0}}
+\headcommand {\beamer@framepages {16}{17}}
+\headcommand {\beamer@subsectionpages {16}{17}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{18}{Types of Obserational Studies}}
+\headcommand {\slideentry {3}{1}{1}{18/19}{Types of Obserational Studies}{0}}
+\headcommand {\beamer@framepages {18}{19}}
+\headcommand {\beamer@sectionpages {16}{19}}
+\headcommand {\beamer@subsectionpages {18}{19}}
+\headcommand {\sectionentry {4}{Quartiles}{20}{Quartiles}{0}}
+\headcommand {\slideentry {4}{0}{1}{20/20}{}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@sectionpages {20}{20}}
+\headcommand {\beamer@subsectionpages {20}{20}}
+\headcommand {\sectionentry {5}{Mean, Median, IQR, and Standard Deviation}{21}{Mean, Median, IQR, and Standard Deviation}{0}}
+\headcommand {\slideentry {5}{0}{1}{21/21}{}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@sectionpages {21}{21}}
+\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\sectionentry {6}{Normal Distributions}{22}{Normal Distributions}{0}}
+\headcommand {\slideentry {6}{0}{1}{22/22}{}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\beamer@sectionpages {22}{22}}
+\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\sectionentry {7}{Expected Value}{23}{Expected Value}{0}}
+\headcommand {\slideentry {7}{0}{1}{23/23}{}{0}}
+\headcommand {\beamer@framepages {23}{23}}
+\headcommand {\beamer@sectionpages {23}{23}}
+\headcommand {\beamer@subsectionpages {23}{23}}
+\headcommand {\sectionentry {8}{Dependent Probability}{24}{Dependent Probability}{0}}
+\headcommand {\slideentry {8}{0}{1}{24/24}{}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@sectionpages {24}{24}}
+\headcommand {\beamer@subsectionpages {24}{24}}
+\headcommand {\sectionentry {9}{Sampling Distributions}{25}{Sampling Distributions}{0}}
+\headcommand {\slideentry {9}{0}{1}{25/25}{}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\beamer@sectionpages {25}{25}}
+\headcommand {\beamer@subsectionpages {25}{25}}
+\headcommand {\sectionentry {10}{Sample Questions}{26}{Sample Questions}{0}}
+\headcommand {\slideentry {10}{0}{1}{26/26}{}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@partpages {1}{26}}
+\headcommand {\beamer@subsectionpages {26}{26}}
+\headcommand {\beamer@sectionpages {26}{26}}
+\headcommand {\beamer@documentpages {26}}
+\headcommand {\gdef \inserttotalframenumber {14}}
