@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Introduction to Presentation}{2}{0}{1}
+\beamer@sectionintoc {2}{Types of Samples}{2}{0}{2}
+\beamer@sectionintoc {3}{Types of Studies}{2}{0}{3}
+\beamer@sectionintoc {4}{Quartiles}{2}{0}{4}
+\beamer@sectionintoc {5}{Mean, Median, IQR, and Standard Deviation}{2}{0}{5}
+\beamer@sectionintoc {6}{Normal Distributions}{2}{0}{6}
+\beamer@sectionintoc {7}{Expected Value}{2}{0}{7}
+\beamer@sectionintoc {8}{Dependent Probability}{2}{0}{8}
+\beamer@sectionintoc {9}{Sampling Distributions}{2}{0}{9}
+\beamer@sectionintoc {10}{Sample Questions}{2}{0}{10}
